@@ -1,4 +1,4 @@
-module.exports = [
+module.exports = [ //to see images in the strapi
   'strapi::errors',
   {
     name: 'strapi::security',
